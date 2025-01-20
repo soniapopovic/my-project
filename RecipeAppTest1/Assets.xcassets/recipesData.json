@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Hamburger",
+        "image": "hamburger",
+        "description": "cooked meat",
+        "ingredients": "ground beef, onions, egg",
+        "directions": "mix beef with egg and diced onions, cook beef",
+        "cookingtime": 10,
+        "category": "Protein"
+    },
+    {
+        "id": 2,
+        "name": "Salad",
+        "image": "salad",
+        "description": "tossed vegetables",
+        "ingredients": "lettuce, tomato, cucumber",
+        "directions": "mix everything in a bowl",
+        "cookingtime": 5,
+        "category": "Vegetable"
+    },
+    {
+        "id": 3,
+        "name": "Toast",
+        "image": "toast",
+        "description": "bread that is toasted",
+        "ingredients": "bread",
+        "directions": "put slice of bread in toaster and toast",
+        "cookingtime": 3,
+        "category": "Grain"
+    },
+]
